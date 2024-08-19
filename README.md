@@ -1,4 +1,4 @@
-# Projects
+# Chatbot_StreamlitUI
 Generative AI Chatbot with Streamlit
 
 1. Developed a chatbot application using Python that integrates with a generative AI model for interactive conversations.
